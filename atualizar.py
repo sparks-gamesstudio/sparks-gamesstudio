@@ -3,6 +3,7 @@
 Uso: python atualizar.py   (roda no fim da rotina de publicar do Canal 2)
 """
 import csv
+import json
 import datetime
 import pathlib
 import re
@@ -23,6 +24,44 @@ TEXTOS = {
            "cartoes": ("videos posted", "live channels", "days live", "in the queue"),
            "titulo": "Factory achievements"},
 }
+TEXTOS["pt"]["marco"] = ('<img src="https://img.shields.io/badge/🎉_marco_batido-{0}_vídeos_postados!-FFD24A?style=for-the-badge&labelColor=D97757" alt="Marco: {0} vídeos postados" />')
+TEXTOS["en"]["marco"] = ('<img src="https://img.shields.io/badge/🎉_milestone-{0}_videos_posted!-FFD24A?style=for-the-badge&labelColor=D97757" alt="Milestone: {0} videos posted" />')
+
+MARCOS = (50, 100, 250, 500, 1000, 2500, 5000)
+DIAS_DE_FESTA = 7
+POSTS_MARCO = REPO / "marcos"
+
+
+def marco_da_semana(total):
+    """Registra marcos novos em marcos.json e devolve o marco que ainda está na semana de festa (ou None)."""
+    arquivo = REPO / "marcos.json"
+    batidos = json.loads(arquivo.read_text(encoding="utf-8")) if arquivo.exists() else {}
+    hoje = datetime.date.today()
+    for m in MARCOS:
+        if total >= m and str(m) not in batidos:
+            batidos[str(m)] = hoje.isoformat()
+            post_do_marco(m)
+    arquivo.write_text(json.dumps(batidos, indent=2), encoding="utf-8")
+    festa = [int(m) for m, d in batidos.items()
+             if (hoje - datetime.date.fromisoformat(d)).days < DIAS_DE_FESTA]
+    return max(festa) if festa else None
+
+
+def post_do_marco(m):
+    """Gera uma arte 1080x1350 de comemoração para postar no Instagram (fica fora do GitHub)."""
+    POSTS_MARCO.mkdir(exist_ok=True)
+    fonte = "C\\:/Windows/Fonts/seguibl.ttf"
+    mascote = REPO.parent / "marca" / "mascote-comemorar.jpg"
+    filtro = (
+        "[0]split[a][b];[a]scale=1080:1350,boxblur=40[fundo];[b]scale=-1:1450[rebite];"
+        "[fundo][rebite]overlay=(W-w)/2:60,"
+        "drawbox=x=0:y=0:w=1080:h=400:c=0x0B0A09@0.9:t=fill,"
+        f"drawtext=fontfile='{fonte}':text='{m}':fontcolor=0xD97757:fontsize=220:x=(w-tw)/2:y=20,"
+        f"drawtext=fontfile='{fonte}':text='vídeos postados!':fontcolor=0xF3EDE6:fontsize=72:x=(w-tw)/2:y=290,"
+        "drawbox=x=0:y=1330:w=1080:h=20:c=0xD97757:t=fill"
+    )
+    subprocess.run(["ffmpeg", "-v", "error", "-y", "-i", str(mascote), "-filter_complex", filtro, "-frames:v", "1",
+                    str(POSTS_MARCO / f"marco-{m}.png")], check=True)
 
 
 def postados(canal):
@@ -126,9 +165,13 @@ def main():
         )
     ultimos = "<table><tr>\n" + "\n".join(celulas) + "\n</tr></table>"
 
-    # Rebite muda de humor: comemora no fim de semana, pensa na segunda, acena ou dá joinha no resto
+    marco = marco_da_semana(total)
+
+    # Rebite muda de humor: comemora no fim de semana e na semana de um marco, pensa na segunda, acena ou dá joinha no resto
     dia = datetime.date.today().weekday()
     humor = {0: "pensar", 5: "comemorar", 6: "comemorar"}.get(dia, "acenar" if dia % 2 else "joinha")
+    if marco:
+        humor = "comemorar"
     rebite = f'<img align="right" src="assets/rebite/{humor}.jpg" width="200" alt="Rebite" />'
 
     for t in TEXTOS.values():
@@ -148,6 +191,7 @@ def main():
         readme = bloco(readme, "numeros", " ".join(selos))
         readme = bloco(readme, "ultimos", ultimos)
         readme = bloco(readme, "rebite", rebite)
+        readme = bloco(readme, "marco", t["marco"].format(marco) if marco else "")
         arquivo.write_text(readme, encoding="utf-8")
 
     if not subprocess.run(["git", "status", "--porcelain"], cwd=REPO, capture_output=True, text=True).stdout:

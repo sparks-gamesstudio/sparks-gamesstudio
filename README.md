@@ -19,6 +19,10 @@
 <img src="https://img.shields.io/badge/🎬_vídeos_postados-26-D97757?style=for-the-badge" alt="26" /> <img src="https://img.shields.io/badge/📺_canais_no_ar-2-0B0A09?style=for-the-badge" alt="2" />
 <!-- numeros:fim -->
 
+<!-- marco:inicio -->
+
+<!-- marco:fim -->
+
 </div>
 
 ---
