@@ -1,5 +1,3 @@
-<!-- README do perfil: vai no repositório sparks-gamesstudio/sparks-gamesstudio com o nome README.md -->
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0A09,100:D97757&height=180&section=header&text=F%C3%A1brica%20de%20Canais&fontSize=48&fontColor=F3EDE6&fontAlignY=38&desc=Canais%20de%20v%C3%ADdeo%20com%20IA%2C%20no%20piloto%20autom%C3%A1tico&descAlignY=60&descSize=18" width="100%" alt="Fábrica de Canais" />
@@ -12,7 +10,12 @@
   <a href="https://sparks-gamesstudio.github.io/fabrica-de-canais/"><img src="https://img.shields.io/badge/Site-D97757?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Site" /></a>
   <a href="https://pay.kiwify.com.br/GxCUqZm"><img src="https://img.shields.io/badge/Comprar%20o%20pack-0B0A09?style=for-the-badge&logo=rocket&logoColor=D97757" alt="Comprar o pack" /></a>
   <a href="https://github.com/sparks-gamesstudio/fabrica-de-canais"><img src="https://img.shields.io/badge/Reposit%C3%B3rio-F3EDE6?style=for-the-badge&logo=github&logoColor=0B0A09" alt="Repositório" /></a>
+  <a href="https://instagram.com/afabricadecanais"><img src="https://img.shields.io/badge/@afabricadecanais-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram @afabricadecanais" /></a>
 </p>
+
+<!-- numeros:inicio -->
+<img src="https://img.shields.io/badge/🎬_vídeos_postados-26-D97757?style=for-the-badge" alt="26 vídeos postados" /> <img src="https://img.shields.io/badge/📺_canais_no_ar-2-0B0A09?style=for-the-badge" alt="2 canais no ar" />
+<!-- numeros:fim -->
 
 </div>
 
@@ -20,7 +23,9 @@
 
 ## 👋 Oi, eu sou o Rebite
 
-<img align="right" src="https://sparks-gamesstudio.github.io/fabrica-de-canais/assets/rebite.jpg" width="200" alt="Rebite, o mascote" />
+<!-- rebite:inicio -->
+<img align="right" src="assets/rebite/comemorar.jpg" width="200" alt="Rebite, o mascote" />
+<!-- rebite:fim -->
 
 A **Fábrica de Canais** é um conjunto de skills para o Claude Code que cria vídeos curtos sozinho, do zero até o post agendado:
 
@@ -32,6 +37,98 @@ A **Fábrica de Canais** é um conjunto de skills para o Claude Code que cria v�
 
 <br clear="right" />
 
+## 🎥 Feito pela fábrica
+
+<table>
+<tr>
+<td width="280" align="center">
+  <img src="assets/demo.gif" width="240" alt="Trecho de um vídeo feito pela Fábrica de Canais" />
+</td>
+<td>
+
+**Nenhum quadro deste vídeo foi editado à mão.**
+
+A fábrica pegou a ideia da fila, escreveu o roteiro, gerou a narração, montou as cenas 3D com o Rebite, colocou trilha e legenda, renderizou e agendou o post.
+
+Quer ver mais? Os canais estão no ar:
+
+- ⚽ [@boleiro3d](https://instagram.com/boleiro3d): futebol em desenho animado
+- 🏭 [@afabricadecanais](https://instagram.com/afabricadecanais): os bastidores da fábrica
+
+</td>
+</tr>
+</table>
+
+## ⚙️ Como funciona
+
+```mermaid
+flowchart LR
+    A[💡 Ideia] --> B[✍️ Roteiro]
+    B --> C[🎙️ Narração]
+    C --> D[🎬 Cenas 3D]
+    D --> E[🖼️ Capa e textos]
+    E --> F[📅 Post agendado]
+    style A fill:#D97757,color:#fff,stroke:#D97757
+    style F fill:#D97757,color:#fff,stroke:#D97757
+```
+
+## 📺 Últimos vídeos postados
+
+<!-- ultimos:inicio -->
+<table><tr>
+<td align="center" width="25%"><a href="https://instagram.com/afabricadecanais"><img src="assets/ultimos/1.jpg" width="140" alt="A receita de todo Short que segura até o fim" /></a><br/><sub>A receita de todo Short que segura até o fim</sub></td>
+<td align="center" width="25%"><a href="https://instagram.com/afabricadecanais"><img src="assets/ultimos/2.jpg" width="140" alt="A IA que dá nota pro seu roteiro" /></a><br/><sub>A IA que dá nota pro seu roteiro</sub></td>
+<td align="center" width="25%"><a href="https://instagram.com/afabricadecanais"><img src="assets/ultimos/3.jpg" width="140" alt="Por que seu vídeo perde gente em 3 segundos" /></a><br/><sub>Por que seu vídeo perde gente em 3 segundos</sub></td>
+<td align="center" width="25%"><a href="https://instagram.com/afabricadecanais"><img src="assets/ultimos/4.jpg" width="140" alt="Gerei 30 ideias de vídeo em 1 minuto" /></a><br/><sub>Gerei 30 ideias de vídeo em 1 minuto</sub></td>
+</tr></table>
+<!-- ultimos:fim -->
+
+## 📦 O pack
+
+<div align="center">
+  <a href="https://sparks-gamesstudio.github.io/fabrica-de-canais/">
+    <img src="https://sparks-gamesstudio.github.io/fabrica-de-canais/assets/pack/capa.jpg" width="640" alt="Capa do pack Fábrica de Canais" />
+  </a>
+</div>
+
+## ❓ Perguntas frequentes
+
+<details>
+<summary><b>Preciso pagar o Claude?</b></summary>
+<br/>
+Não. As skills funcionam no plano grátis do Claude.ai, e os prompts do PDF funcionam no ChatGPT e no Gemini grátis.
+</details>
+
+<details>
+<summary><b>Funciona em qualquer nicho?</b></summary>
+<br/>
+Sim. A ficha do canal adapta tudo ao seu tema, e o PDF traz ideias prontas para 10 nichos.
+</details>
+
+<details>
+<summary><b>Como recebo?</b></summary>
+<br/>
+Na hora, pela Kiwify: um .zip com o PDF, o guia de instalação e as 7 skills em duas versões (Claude.ai e Claude Code).
+</details>
+
+<details>
+<summary><b>A IA erra fatos?</b></summary>
+<br/>
+Pode errar. Por isso o roteiro sempre lista os fatos a conferir e o revisor aponta o que parece duvidoso.
+</details>
+
+<details>
+<summary><b>Posso usar para clientes?</b></summary>
+<br/>
+Pode usar as skills no trabalho para clientes. Só não pode revender ou compartilhar o pack.
+</details>
+
+<details>
+<summary><b>E se eu não gostar?</b></summary>
+<br/>
+Garantia de 7 dias pela Kiwify: você pede o reembolso direto na plataforma, sem precisar explicar.
+</details>
+
 ## 🛠️ Feito com
 
 <p align="center">
@@ -42,19 +139,13 @@ A **Fábrica de Canais** é um conjunto de skills para o Claude Code que cria v�
   <img src="https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white" alt="FFmpeg" />
 </p>
 
-## 📦 O pack
-
-<div align="center">
-  <a href="https://sparks-gamesstudio.github.io/fabrica-de-canais/">
-    <img src="https://sparks-gamesstudio.github.io/fabrica-de-canais/assets/pack/capa.jpg" width="640" alt="Capa do pack Fábrica de Canais" />
-  </a>
-</div>
-
 ## 📊 Atividade
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sparks-gamesstudio&show_icons=true&hide_border=true&bg_color=0B0A09&title_color=D97757&icon_color=D97757&text_color=F3EDE6" height="160" alt="Estatísticas" />
   <img src="https://streak-stats.demolab.com?user=sparks-gamesstudio&hide_border=true&background=0B0A09&ring=D97757&fire=D97757&currStreakLabel=D97757&sideLabels=F3EDE6&dates=F3EDE6&currStreakNum=F3EDE6&sideNums=F3EDE6" height="160" alt="Sequência de commits" />
+  <br/><br/>
+  <img src="https://komarev.com/ghpvc/?username=sparks-gamesstudio&color=D97757&style=flat-square&label=visitas" alt="Visitas ao perfil" />
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:D97757,100:0B0A09&height=100&section=footer" width="100%" alt="" />
