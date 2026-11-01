@@ -1,5 +1,7 @@
 <div align="center">
 
+<p align="right"><b>🇧🇷 Português</b> · <a href="README.en.md">🇺🇸 English</a></p>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0A09,100:D97757&height=180&section=header&text=F%C3%A1brica%20de%20Canais&fontSize=48&fontColor=F3EDE6&fontAlignY=38&desc=Canais%20de%20v%C3%ADdeo%20com%20IA%2C%20no%20piloto%20autom%C3%A1tico&descAlignY=60&descSize=18" width="100%" alt="Fábrica de Canais" />
 
 <img src="https://sparks-gamesstudio.github.io/fabrica-de-canais/marca/simbolo-1024.png" width="120" alt="Símbolo da Fábrica de Canais" />
@@ -14,7 +16,7 @@
 </p>
 
 <!-- numeros:inicio -->
-<img src="https://img.shields.io/badge/🎬_vídeos_postados-26-D97757?style=for-the-badge" alt="26 vídeos postados" /> <img src="https://img.shields.io/badge/📺_canais_no_ar-2-0B0A09?style=for-the-badge" alt="2 canais no ar" />
+<img src="https://img.shields.io/badge/🎬_vídeos_postados-26-D97757?style=for-the-badge" alt="26" /> <img src="https://img.shields.io/badge/📺_canais_no_ar-2-0B0A09?style=for-the-badge" alt="2" />
 <!-- numeros:fim -->
 
 </div>
@@ -24,7 +26,7 @@
 ## 👋 Oi, eu sou o Rebite
 
 <!-- rebite:inicio -->
-<img align="right" src="assets/rebite/comemorar.jpg" width="200" alt="Rebite, o mascote" />
+<img align="right" src="assets/rebite/comemorar.jpg" width="200" alt="Rebite" />
 <!-- rebite:fim -->
 
 A **Fábrica de Canais** é um conjunto de skills para o Claude Code que cria vídeos curtos sozinho, do zero até o post agendado:
@@ -39,22 +41,17 @@ A **Fábrica de Canais** é um conjunto de skills para o Claude Code que cria v�
 
 ## 🎥 Feito pela fábrica
 
+**Nenhum quadro destes vídeos foi editado à mão.** A fábrica pegou a ideia da fila, escreveu o roteiro, gerou a narração, montou as cenas 3D, colocou trilha e legenda, renderizou e agendou o post.
+
 <table>
 <tr>
-<td width="280" align="center">
-  <img src="assets/demo.gif" width="240" alt="Trecho de um vídeo feito pela Fábrica de Canais" />
+<td align="center" width="50%">
+  <a href="https://instagram.com/boleiro3d"><img src="assets/demo-boleiro.gif" width="240" alt="Trecho de um vídeo do Boleiro 3D" /></a>
+  <br/><b>⚽ @boleiro3d</b><br/><sub>futebol em desenho animado</sub>
 </td>
-<td>
-
-**Nenhum quadro deste vídeo foi editado à mão.**
-
-A fábrica pegou a ideia da fila, escreveu o roteiro, gerou a narração, montou as cenas 3D com o Rebite, colocou trilha e legenda, renderizou e agendou o post.
-
-Quer ver mais? Os canais estão no ar:
-
-- ⚽ [@boleiro3d](https://instagram.com/boleiro3d): futebol em desenho animado
-- 🏭 [@afabricadecanais](https://instagram.com/afabricadecanais): os bastidores da fábrica
-
+<td align="center" width="50%">
+  <a href="https://instagram.com/afabricadecanais"><img src="assets/demo-fabrica.gif" width="240" alt="Trecho de um vídeo da Fábrica de Canais" /></a>
+  <br/><b>🏭 @afabricadecanais</b><br/><sub>os bastidores da fábrica</sub>
 </td>
 </tr>
 </table>
@@ -142,6 +139,8 @@ Garantia de 7 dias pela Kiwify: você pede o reembolso direto na plataforma, sem
 ## 📊 Atividade
 
 <div align="center">
+  <img src="assets/conquistas.svg" width="100%" alt="Conquistas da fábrica" />
+  <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api?username=sparks-gamesstudio&show_icons=true&hide_border=true&bg_color=0B0A09&title_color=D97757&icon_color=D97757&text_color=F3EDE6" height="160" alt="Estatísticas" />
   <img src="https://streak-stats.demolab.com?user=sparks-gamesstudio&hide_border=true&background=0B0A09&ring=D97757&fire=D97757&currStreakLabel=D97757&sideLabels=F3EDE6&dates=F3EDE6&currStreakNum=F3EDE6&sideNums=F3EDE6" height="160" alt="Sequência de commits" />
   <br/><br/>
