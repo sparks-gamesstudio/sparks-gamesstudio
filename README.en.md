@@ -30,7 +30,7 @@
 ## 👋 Hi, I'm Rebite
 
 <!-- rebite:inicio -->
-<img align="right" src="assets/rebite/comemorar.jpg" width="200" alt="Rebite" />
+<img align="right" src="assets/rebite/pensar.jpg" width="200" alt="Rebite" />
 <!-- rebite:fim -->
 
 **Fábrica de Canais** (Portuguese for "Channel Factory") is a set of Claude Code skills that makes short videos on its own, from scratch to a scheduled post:

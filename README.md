@@ -30,7 +30,7 @@
 ## 👋 Oi, eu sou o Rebite
 
 <!-- rebite:inicio -->
-<img align="right" src="assets/rebite/comemorar.jpg" width="200" alt="Rebite" />
+<img align="right" src="assets/rebite/pensar.jpg" width="200" alt="Rebite" />
 <!-- rebite:fim -->
 
 A **Fábrica de Canais** é um conjunto de skills para o Claude Code que cria vídeos curtos sozinho, do zero até o post agendado:
