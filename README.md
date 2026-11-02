@@ -16,7 +16,7 @@
 </p>
 
 <!-- numeros:inicio -->
-<img src="https://img.shields.io/badge/🎬_vídeos_postados-26-D97757?style=for-the-badge" alt="26" /> <img src="https://img.shields.io/badge/📺_canais_no_ar-2-0B0A09?style=for-the-badge" alt="2" />
+<img src="https://img.shields.io/badge/🎬_vídeos_postados-32-D97757?style=for-the-badge" alt="32" /> <img src="https://img.shields.io/badge/📺_canais_no_ar-2-0B0A09?style=for-the-badge" alt="2" />
 <!-- numeros:fim -->
 
 <!-- marco:inicio -->
@@ -77,10 +77,10 @@ flowchart LR
 
 <!-- ultimos:inicio -->
 <table><tr>
-<td align="center" width="25%"><a href="https://instagram.com/afabricadecanais"><img src="assets/ultimos/1.jpg" width="140" alt="A receita de todo Short que segura até o fim" /></a><br/><sub>A receita de todo Short que segura até o fim</sub></td>
-<td align="center" width="25%"><a href="https://instagram.com/afabricadecanais"><img src="assets/ultimos/2.jpg" width="140" alt="A IA que dá nota pro seu roteiro" /></a><br/><sub>A IA que dá nota pro seu roteiro</sub></td>
-<td align="center" width="25%"><a href="https://instagram.com/afabricadecanais"><img src="assets/ultimos/3.jpg" width="140" alt="Por que seu vídeo perde gente em 3 segundos" /></a><br/><sub>Por que seu vídeo perde gente em 3 segundos</sub></td>
-<td align="center" width="25%"><a href="https://instagram.com/afabricadecanais"><img src="assets/ultimos/4.jpg" width="140" alt="Gerei 30 ideias de vídeo em 1 minuto" /></a><br/><sub>Gerei 30 ideias de vídeo em 1 minuto</sub></td>
+<td align="center" width="25%"><a href="https://instagram.com/afabricadecanais"><img src="assets/ultimos/1.jpg" width="140" alt="Sua narração com IA soa robótica Faz isso" /></a><br/><sub>Sua narração com IA soa robótica Faz isso</sub></td>
+<td align="center" width="25%"><a href="https://instagram.com/afabricadecanais"><img src="assets/ultimos/2.jpg" width="140" alt="Aparecer no vídeo ou usar um personagem" /></a><br/><sub>Aparecer no vídeo ou usar um personagem</sub></td>
+<td align="center" width="25%"><a href="https://instagram.com/afabricadecanais"><img src="assets/ultimos/3.jpg" width="140" alt="A receita de todo Short que segura até o fim" /></a><br/><sub>A receita de todo Short que segura até o fim</sub></td>
+<td align="center" width="25%"><a href="https://instagram.com/afabricadecanais"><img src="assets/ultimos/4.jpg" width="140" alt="A IA que dá nota pro seu roteiro" /></a><br/><sub>A IA que dá nota pro seu roteiro</sub></td>
 </tr></table>
 <!-- ultimos:fim -->
 
