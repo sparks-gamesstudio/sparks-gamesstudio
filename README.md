@@ -16,7 +16,7 @@
 </p>
 
 <!-- numeros:inicio -->
-<img src="https://img.shields.io/badge/🎬_vídeos_postados-34-D97757?style=for-the-badge" alt="34" /> <img src="https://img.shields.io/badge/📺_canais_no_ar-2-0B0A09?style=for-the-badge" alt="2" />
+<img src="https://img.shields.io/badge/🎬_vídeos_postados-40-D97757?style=for-the-badge" alt="40" /> <img src="https://img.shields.io/badge/📺_canais_no_ar-2-0B0A09?style=for-the-badge" alt="2" />
 <!-- numeros:fim -->
 
 <!-- marco:inicio -->
@@ -77,10 +77,10 @@ flowchart LR
 
 <!-- ultimos:inicio -->
 <table><tr>
-<td align="center" width="25%"><a href="https://instagram.com/afabricadecanais"><img src="assets/ultimos/1.jpg" width="140" alt="Sua narração com IA soa robótica Faz isso" /></a><br/><sub>Sua narração com IA soa robótica Faz isso</sub></td>
-<td align="center" width="25%"><a href="https://instagram.com/afabricadecanais"><img src="assets/ultimos/2.jpg" width="140" alt="Aparecer no vídeo ou usar um personagem" /></a><br/><sub>Aparecer no vídeo ou usar um personagem</sub></td>
-<td align="center" width="25%"><a href="https://instagram.com/afabricadecanais"><img src="assets/ultimos/3.jpg" width="140" alt="A receita de todo Short que segura até o fim" /></a><br/><sub>A receita de todo Short que segura até o fim</sub></td>
-<td align="center" width="25%"><a href="https://instagram.com/afabricadecanais"><img src="assets/ultimos/4.jpg" width="140" alt="A IA que dá nota pro seu roteiro" /></a><br/><sub>A IA que dá nota pro seu roteiro</sub></td>
+<td align="center" width="25%"><a href="https://instagram.com/afabricadecanais"><img src="assets/ultimos/1.jpg" width="140" alt="Dá pra ter canal sem mostrar o rosto" /></a><br/><sub>Dá pra ter canal sem mostrar o rosto</sub></td>
+<td align="center" width="25%"><a href="https://instagram.com/afabricadecanais"><img src="assets/ultimos/2.jpg" width="140" alt="Sua narração com IA soa robótica Faz isso" /></a><br/><sub>Sua narração com IA soa robótica Faz isso</sub></td>
+<td align="center" width="25%"><a href="https://instagram.com/afabricadecanais"><img src="assets/ultimos/3.jpg" width="140" alt="Aparecer no vídeo ou usar um personagem" /></a><br/><sub>Aparecer no vídeo ou usar um personagem</sub></td>
+<td align="center" width="25%"><a href="https://instagram.com/afabricadecanais"><img src="assets/ultimos/4.jpg" width="140" alt="A receita de todo Short que segura até o fim" /></a><br/><sub>A receita de todo Short que segura até o fim</sub></td>
 </tr></table>
 <!-- ultimos:fim -->
 
