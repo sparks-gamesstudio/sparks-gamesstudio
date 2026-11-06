@@ -16,7 +16,7 @@
 </p>
 
 <!-- numeros:inicio -->
-<img src="https://img.shields.io/badge/🎬_videos_posted-45-D97757?style=for-the-badge" alt="45" /> <img src="https://img.shields.io/badge/📺_channels_live-2-0B0A09?style=for-the-badge" alt="2" />
+<img src="https://img.shields.io/badge/🎬_videos_posted-49-D97757?style=for-the-badge" alt="49" /> <img src="https://img.shields.io/badge/📺_channels_live-2-0B0A09?style=for-the-badge" alt="2" />
 <!-- numeros:fim -->
 
 <!-- marco:inicio -->
@@ -30,7 +30,7 @@
 ## 👋 Hi, I'm Rebite
 
 <!-- rebite:inicio -->
-<img align="right" src="assets/rebite/joinha.jpg" width="200" alt="Rebite" />
+<img align="right" src="assets/rebite/acenar.jpg" width="200" alt="Rebite" />
 <!-- rebite:fim -->
 
 **Fábrica de Canais** (Portuguese for "Channel Factory") is a set of Claude Code skills that makes short videos on its own, from scratch to a scheduled post:
@@ -81,8 +81,8 @@ flowchart LR
 <table><tr>
 <td align="center" width="25%"><a href="https://instagram.com/afabricadecanais"><img src="assets/ultimos/1.jpg" width="140" alt="O formato que funciona em qualquer nicho" /></a><br/><sub>O formato que funciona em qualquer nicho</sub></td>
 <td align="center" width="25%"><a href="https://instagram.com/afabricadecanais"><img src="assets/ultimos/2.jpg" width="140" alt="Como eu escrevo 7 roteiros num dia só" /></a><br/><sub>Como eu escrevo 7 roteiros num dia só</sub></td>
-<td align="center" width="25%"><a href="https://instagram.com/afabricadecanais"><img src="assets/ultimos/3.jpg" width="140" alt="Dá pra ter canal sem mostrar o rosto" /></a><br/><sub>Dá pra ter canal sem mostrar o rosto</sub></td>
-<td align="center" width="25%"><a href="https://instagram.com/afabricadecanais"><img src="assets/ultimos/4.jpg" width="140" alt="Sua narração com IA soa robótica Faz isso" /></a><br/><sub>Sua narração com IA soa robótica Faz isso</sub></td>
+<td align="center" width="25%"><a href="https://instagram.com/afabricadecanais"><img src="assets/ultimos/3.jpg" width="140" alt="Mito ou verdade o Claude Code lembra de tudo" /></a><br/><sub>Mito ou verdade o Claude Code lembra de tudo</sub></td>
+<td align="center" width="25%"><a href="https://instagram.com/afabricadecanais"><img src="assets/ultimos/4.jpg" width="140" alt="Dá pra ter canal sem mostrar o rosto" /></a><br/><sub>Dá pra ter canal sem mostrar o rosto</sub></td>
 </tr></table>
 <!-- ultimos:fim -->
 
