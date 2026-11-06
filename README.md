@@ -16,11 +16,11 @@
 </p>
 
 <!-- numeros:inicio -->
-<img src="https://img.shields.io/badge/🎬_vídeos_postados-49-D97757?style=for-the-badge" alt="49" /> <img src="https://img.shields.io/badge/📺_canais_no_ar-2-0B0A09?style=for-the-badge" alt="2" />
+<img src="https://img.shields.io/badge/🎬_vídeos_postados-50-D97757?style=for-the-badge" alt="50" /> <img src="https://img.shields.io/badge/📺_canais_no_ar-2-0B0A09?style=for-the-badge" alt="2" />
 <!-- numeros:fim -->
 
 <!-- marco:inicio -->
-
+<img src="https://img.shields.io/badge/🎉_marco_batido-50_vídeos_postados!-FFD24A?style=for-the-badge&labelColor=D97757" alt="Marco: 50 vídeos postados" />
 <!-- marco:fim -->
 
 </div>
@@ -30,7 +30,7 @@
 ## 👋 Oi, eu sou o Rebite
 
 <!-- rebite:inicio -->
-<img align="right" src="assets/rebite/acenar.jpg" width="200" alt="Rebite" />
+<img align="right" src="assets/rebite/comemorar.jpg" width="200" alt="Rebite" />
 <!-- rebite:fim -->
 
 A **Fábrica de Canais** é um conjunto de skills para o Claude Code que cria vídeos curtos sozinho, do zero até o post agendado:

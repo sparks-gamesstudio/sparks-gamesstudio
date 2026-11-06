@@ -16,11 +16,11 @@
 </p>
 
 <!-- numeros:inicio -->
-<img src="https://img.shields.io/badge/🎬_videos_posted-49-D97757?style=for-the-badge" alt="49" /> <img src="https://img.shields.io/badge/📺_channels_live-2-0B0A09?style=for-the-badge" alt="2" />
+<img src="https://img.shields.io/badge/🎬_videos_posted-50-D97757?style=for-the-badge" alt="50" /> <img src="https://img.shields.io/badge/📺_channels_live-2-0B0A09?style=for-the-badge" alt="2" />
 <!-- numeros:fim -->
 
 <!-- marco:inicio -->
-
+<img src="https://img.shields.io/badge/🎉_milestone-50_videos_posted!-FFD24A?style=for-the-badge&labelColor=D97757" alt="Milestone: 50 videos posted" />
 <!-- marco:fim -->
 
 </div>
@@ -30,7 +30,7 @@
 ## 👋 Hi, I'm Rebite
 
 <!-- rebite:inicio -->
-<img align="right" src="assets/rebite/acenar.jpg" width="200" alt="Rebite" />
+<img align="right" src="assets/rebite/comemorar.jpg" width="200" alt="Rebite" />
 <!-- rebite:fim -->
 
 **Fábrica de Canais** (Portuguese for "Channel Factory") is a set of Claude Code skills that makes short videos on its own, from scratch to a scheduled post:
