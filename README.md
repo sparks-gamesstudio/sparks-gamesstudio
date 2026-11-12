@@ -16,7 +16,7 @@
 </p>
 
 <!-- numeros:inicio -->
-<img src="https://img.shields.io/badge/🎬_vídeos_postados-76-D97757?style=for-the-badge" alt="76" /> <img src="https://img.shields.io/badge/📺_canais_no_ar-2-0B0A09?style=for-the-badge" alt="2" />
+<img src="https://img.shields.io/badge/🎬_vídeos_postados-78-D97757?style=for-the-badge" alt="78" /> <img src="https://img.shields.io/badge/📺_canais_no_ar-2-0B0A09?style=for-the-badge" alt="2" />
 <!-- numeros:fim -->
 
 <!-- marco:inicio -->
@@ -80,7 +80,7 @@ flowchart LR
 <td align="center" width="25%"><a href="https://instagram.com/afabricadecanais"><img src="assets/ultimos/1.jpg" width="140" alt="Quanto custa ter um canal que posta todo dia" /></a><br/><sub>Quanto custa ter um canal que posta todo dia</sub></td>
 <td align="center" width="25%"><a href="https://instagram.com/afabricadecanais"><img src="assets/ultimos/2.jpg" width="140" alt="Pedido ruim contra skill boa" /></a><br/><sub>Pedido ruim contra skill boa</sub></td>
 <td align="center" width="25%"><a href="https://instagram.com/afabricadecanais"><img src="assets/ultimos/3.jpg" width="140" alt="Esse vídeo foi feito por uma máquina" /></a><br/><sub>Esse vídeo foi feito por uma máquina</sub></td>
-<td align="center" width="25%"><a href="https://instagram.com/afabricadecanais"><img src="assets/ultimos/4.jpg" width="140" alt="O erro que mata canal novo em 30 dias" /></a><br/><sub>O erro que mata canal novo em 30 dias</sub></td>
+<td align="center" width="25%"><a href="https://instagram.com/afabricadecanais"><img src="assets/ultimos/4.jpg" width="140" alt="Mito ou verdade escrever IMPORTANTE faz o Claude obedecer" /></a><br/><sub>Mito ou verdade escrever IMPORTANTE faz o Claude obedecer</sub></td>
 </tr></table>
 <!-- ultimos:fim -->
 
