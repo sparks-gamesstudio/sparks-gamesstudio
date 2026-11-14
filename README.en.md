@@ -16,7 +16,7 @@
 </p>
 
 <!-- numeros:inicio -->
-<img src="https://img.shields.io/badge/🎬_videos_posted-80-D97757?style=for-the-badge" alt="80" /> <img src="https://img.shields.io/badge/📺_channels_live-2-0B0A09?style=for-the-badge" alt="2" />
+<img src="https://img.shields.io/badge/🎬_videos_posted-88-D97757?style=for-the-badge" alt="88" /> <img src="https://img.shields.io/badge/📺_channels_live-2-0B0A09?style=for-the-badge" alt="2" />
 <!-- numeros:fim -->
 
 <!-- marco:inicio -->
@@ -30,7 +30,7 @@
 ## 👋 Hi, I'm Rebite
 
 <!-- rebite:inicio -->
-<img align="right" src="assets/rebite/acenar.jpg" width="200" alt="Rebite" />
+<img align="right" src="assets/rebite/joinha.jpg" width="200" alt="Rebite" />
 <!-- rebite:fim -->
 
 **Fábrica de Canais** (Portuguese for "Channel Factory") is a set of Claude Code skills that makes short videos on its own, from scratch to a scheduled post:
@@ -79,10 +79,10 @@ flowchart LR
 
 <!-- ultimos:inicio -->
 <table><tr>
-<td align="center" width="25%"><a href="https://instagram.com/afabricadecanais"><img src="assets/ultimos/1.jpg" width="140" alt="Quanto custa ter um canal que posta todo dia" /></a><br/><sub>Quanto custa ter um canal que posta todo dia</sub></td>
-<td align="center" width="25%"><a href="https://instagram.com/afabricadecanais"><img src="assets/ultimos/2.jpg" width="140" alt="Pedir direto ou pedir um plano antes" /></a><br/><sub>Pedir direto ou pedir um plano antes</sub></td>
-<td align="center" width="25%"><a href="https://instagram.com/afabricadecanais"><img src="assets/ultimos/3.jpg" width="140" alt="Pedido ruim contra skill boa" /></a><br/><sub>Pedido ruim contra skill boa</sub></td>
-<td align="center" width="25%"><a href="https://instagram.com/afabricadecanais"><img src="assets/ultimos/4.jpg" width="140" alt="E se o Claude Code estragar seu projeto" /></a><br/><sub>E se o Claude Code estragar seu projeto</sub></td>
+<td align="center" width="25%"><a href="https://instagram.com/afabricadecanais"><img src="assets/ultimos/1.jpg" width="140" alt="Os 5 níveis de liberdade do Claude Code" /></a><br/><sub>Os 5 níveis de liberdade do Claude Code</sub></td>
+<td align="center" width="25%"><a href="https://instagram.com/afabricadecanais"><img src="assets/ultimos/2.jpg" width="140" alt="O que acontece se a conversa ficar longa demais" /></a><br/><sub>O que acontece se a conversa ficar longa demais</sub></td>
+<td align="center" width="25%"><a href="https://instagram.com/afabricadecanais"><img src="assets/ultimos/3.jpg" width="140" alt="Quanto custa ter um canal que posta todo dia" /></a><br/><sub>Quanto custa ter um canal que posta todo dia</sub></td>
+<td align="center" width="25%"><a href="https://instagram.com/afabricadecanais"><img src="assets/ultimos/4.jpg" width="140" alt="Pedir direto ou pedir um plano antes" /></a><br/><sub>Pedir direto ou pedir um plano antes</sub></td>
 </tr></table>
 <!-- ultimos:fim -->
 
