@@ -16,11 +16,11 @@
 </p>
 
 <!-- numeros:inicio -->
-<img src="https://img.shields.io/badge/🎬_vídeos_postados-94-D97757?style=for-the-badge" alt="94" /> <img src="https://img.shields.io/badge/📺_canais_no_ar-2-0B0A09?style=for-the-badge" alt="2" />
+<img src="https://img.shields.io/badge/🎬_vídeos_postados-101-D97757?style=for-the-badge" alt="101" /> <img src="https://img.shields.io/badge/📺_canais_no_ar-2-0B0A09?style=for-the-badge" alt="2" />
 <!-- numeros:fim -->
 
 <!-- marco:inicio -->
-
+<img src="https://img.shields.io/badge/🎉_marco_batido-100_vídeos_postados!-FFD24A?style=for-the-badge&labelColor=D97757" alt="Marco: 100 vídeos postados" />
 <!-- marco:fim -->
 
 </div>
@@ -77,10 +77,10 @@ flowchart LR
 
 <!-- ultimos:inicio -->
 <table><tr>
-<td align="center" width="25%"><a href="https://instagram.com/afabricadecanais"><img src="assets/ultimos/1.jpg" width="140" alt="Um dia na vida de um hook do Claude Code" /></a><br/><sub>Um dia na vida de um hook do Claude Code</sub></td>
-<td align="center" width="25%"><a href="https://instagram.com/afabricadecanais"><img src="assets/ultimos/2.jpg" width="140" alt="Quanto custa usar o Claude Code por mês" /></a><br/><sub>Quanto custa usar o Claude Code por mês</sub></td>
-<td align="center" width="25%"><a href="https://instagram.com/afabricadecanais"><img src="assets/ultimos/3.jpg" width="140" alt="Os 5 níveis de liberdade do Claude Code" /></a><br/><sub>Os 5 níveis de liberdade do Claude Code</sub></td>
-<td align="center" width="25%"><a href="https://instagram.com/afabricadecanais"><img src="assets/ultimos/4.jpg" width="140" alt="O que acontece se a conversa ficar longa demais" /></a><br/><sub>O que acontece se a conversa ficar longa demais</sub></td>
+<td align="center" width="25%"><a href="https://instagram.com/afabricadecanais"><img src="assets/ultimos/1.jpg" width="140" alt="E se você mostrasse um print pro Claude Code" /></a><br/><sub>E se você mostrasse um print pro Claude Code</sub></td>
+<td align="center" width="25%"><a href="https://instagram.com/afabricadecanais"><img src="assets/ultimos/2.jpg" width="140" alt="Um dia na vida de um hook do Claude Code" /></a><br/><sub>Um dia na vida de um hook do Claude Code</sub></td>
+<td align="center" width="25%"><a href="https://instagram.com/afabricadecanais"><img src="assets/ultimos/3.jpg" width="140" alt="Quanto custa usar o Claude Code por mês" /></a><br/><sub>Quanto custa usar o Claude Code por mês</sub></td>
+<td align="center" width="25%"><a href="https://instagram.com/afabricadecanais"><img src="assets/ultimos/4.jpg" width="140" alt="Os 5 níveis de liberdade do Claude Code" /></a><br/><sub>Os 5 níveis de liberdade do Claude Code</sub></td>
 </tr></table>
 <!-- ultimos:fim -->
 
