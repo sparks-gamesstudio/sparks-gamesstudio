@@ -16,7 +16,7 @@
 </p>
 
 <!-- numeros:inicio -->
-<img src="https://img.shields.io/badge/🎬_videos_posted-110-D97757?style=for-the-badge" alt="110" /> <img src="https://img.shields.io/badge/📺_channels_live-2-0B0A09?style=for-the-badge" alt="2" />
+<img src="https://img.shields.io/badge/🎬_videos_posted-116-D97757?style=for-the-badge" alt="116" /> <img src="https://img.shields.io/badge/📺_channels_live-2-0B0A09?style=for-the-badge" alt="2" />
 <!-- numeros:fim -->
 
 <!-- marco:inicio -->
@@ -79,10 +79,10 @@ flowchart LR
 
 <!-- ultimos:inicio -->
 <table><tr>
-<td align="center" width="25%"><a href="https://instagram.com/afabricadecanais"><img src="assets/ultimos/1.jpg" width="140" alt="O que acontece se você digitar init no Claude Code" /></a><br/><sub>O que acontece se você digitar init no Claude Code</sub></td>
-<td align="center" width="25%"><a href="https://instagram.com/afabricadecanais"><img src="assets/ultimos/2.jpg" width="140" alt="O que é MCP Os 5 níveis, explicado com uma tomada" /></a><br/><sub>O que é MCP Os 5 níveis, explicado com uma tomada</sub></td>
-<td align="center" width="25%"><a href="https://instagram.com/afabricadecanais"><img src="assets/ultimos/3.jpg" width="140" alt="E se você mostrasse um print pro Claude Code" /></a><br/><sub>E se você mostrasse um print pro Claude Code</sub></td>
-<td align="center" width="25%"><a href="https://instagram.com/afabricadecanais"><img src="assets/ultimos/4.jpg" width="140" alt="Um dia na vida de um hook do Claude Code" /></a><br/><sub>Um dia na vida de um hook do Claude Code</sub></td>
+<td align="center" width="25%"><a href="https://instagram.com/afabricadecanais"><img src="assets/ultimos/1.jpg" width="140" alt="Terminal ou app onde usar o Claude Code" /></a><br/><sub>Terminal ou app onde usar o Claude Code</sub></td>
+<td align="center" width="25%"><a href="https://instagram.com/afabricadecanais"><img src="assets/ultimos/2.jpg" width="140" alt="O que acontece se você digitar init no Claude Code" /></a><br/><sub>O que acontece se você digitar init no Claude Code</sub></td>
+<td align="center" width="25%"><a href="https://instagram.com/afabricadecanais"><img src="assets/ultimos/3.jpg" width="140" alt="O que é MCP Os 5 níveis, explicado com uma tomada" /></a><br/><sub>O que é MCP Os 5 níveis, explicado com uma tomada</sub></td>
+<td align="center" width="25%"><a href="https://instagram.com/afabricadecanais"><img src="assets/ultimos/4.jpg" width="140" alt="E se você mostrasse um print pro Claude Code" /></a><br/><sub>E se você mostrasse um print pro Claude Code</sub></td>
 </tr></table>
 <!-- ultimos:fim -->
 
