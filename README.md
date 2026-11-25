@@ -16,7 +16,7 @@
 </p>
 
 <!-- numeros:inicio -->
-<img src="https://img.shields.io/badge/🎬_vídeos_postados-125-D97757?style=for-the-badge" alt="125" /> <img src="https://img.shields.io/badge/📺_canais_no_ar-2-0B0A09?style=for-the-badge" alt="2" />
+<img src="https://img.shields.io/badge/🎬_vídeos_postados-128-D97757?style=for-the-badge" alt="128" /> <img src="https://img.shields.io/badge/📺_canais_no_ar-2-0B0A09?style=for-the-badge" alt="2" />
 <!-- numeros:fim -->
 
 <!-- marco:inicio -->
@@ -30,7 +30,7 @@
 ## 👋 Oi, eu sou o Rebite
 
 <!-- rebite:inicio -->
-<img align="right" src="assets/rebite/pensar.jpg" width="200" alt="Rebite" />
+<img align="right" src="assets/rebite/acenar.jpg" width="200" alt="Rebite" />
 <!-- rebite:fim -->
 
 A **Fábrica de Canais** é um conjunto de skills para o Claude Code que cria vídeos curtos sozinho, do zero até o post agendado:
@@ -77,10 +77,10 @@ flowchart LR
 
 <!-- ultimos:inicio -->
 <table><tr>
-<td align="center" width="25%"><a href="https://instagram.com/afabricadecanais"><img src="assets/ultimos/1.jpg" width="140" alt="5 pedidos que um professor pode fazer ao Claude Code" /></a><br/><sub>5 pedidos que um professor pode fazer ao Claude Code</sub></td>
-<td align="center" width="25%"><a href="https://instagram.com/afabricadecanais"><img src="assets/ultimos/2.jpg" width="140" alt="E se você fechasse o terminal no meio do trabalho" /></a><br/><sub>E se você fechasse o terminal no meio do trabalho</sub></td>
-<td align="center" width="25%"><a href="https://instagram.com/afabricadecanais"><img src="assets/ultimos/3.jpg" width="140" alt="Quanto tempo custa um vídeo feito pela Fábrica" /></a><br/><sub>Quanto tempo custa um vídeo feito pela Fábrica</sub></td>
-<td align="center" width="25%"><a href="https://instagram.com/afabricadecanais"><img src="assets/ultimos/4.jpg" width="140" alt="Terminal ou app onde usar o Claude Code" /></a><br/><sub>Terminal ou app onde usar o Claude Code</sub></td>
+<td align="center" width="25%"><a href="https://instagram.com/afabricadecanais"><img src="assets/ultimos/1.jpg" width="140" alt="Um dia na vida de uma pasta Downloads bagunçada" /></a><br/><sub>Um dia na vida de uma pasta Downloads bagunçada</sub></td>
+<td align="center" width="25%"><a href="https://instagram.com/afabricadecanais"><img src="assets/ultimos/2.jpg" width="140" alt="5 pedidos que um professor pode fazer ao Claude Code" /></a><br/><sub>5 pedidos que um professor pode fazer ao Claude Code</sub></td>
+<td align="center" width="25%"><a href="https://instagram.com/afabricadecanais"><img src="assets/ultimos/3.jpg" width="140" alt="E se você fechasse o terminal no meio do trabalho" /></a><br/><sub>E se você fechasse o terminal no meio do trabalho</sub></td>
+<td align="center" width="25%"><a href="https://instagram.com/afabricadecanais"><img src="assets/ultimos/4.jpg" width="140" alt="Quanto tempo custa um vídeo feito pela Fábrica" /></a><br/><sub>Quanto tempo custa um vídeo feito pela Fábrica</sub></td>
 </tr></table>
 <!-- ultimos:fim -->
 
