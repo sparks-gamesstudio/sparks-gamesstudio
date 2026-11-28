@@ -16,7 +16,7 @@
 </p>
 
 <!-- numeros:inicio -->
-<img src="https://img.shields.io/badge/🎬_vídeos_postados-133-D97757?style=for-the-badge" alt="133" /> <img src="https://img.shields.io/badge/📺_canais_no_ar-2-0B0A09?style=for-the-badge" alt="2" />
+<img src="https://img.shields.io/badge/🎬_vídeos_postados-136-D97757?style=for-the-badge" alt="136" /> <img src="https://img.shields.io/badge/📺_canais_no_ar-2-0B0A09?style=for-the-badge" alt="2" />
 <!-- numeros:fim -->
 
 <!-- marco:inicio -->
@@ -30,7 +30,7 @@
 ## 👋 Oi, eu sou o Rebite
 
 <!-- rebite:inicio -->
-<img align="right" src="assets/rebite/acenar.jpg" width="200" alt="Rebite" />
+<img align="right" src="assets/rebite/comemorar.jpg" width="200" alt="Rebite" />
 <!-- rebite:fim -->
 
 A **Fábrica de Canais** é um conjunto de skills para o Claude Code que cria vídeos curtos sozinho, do zero até o post agendado:
@@ -77,10 +77,10 @@ flowchart LR
 
 <!-- ultimos:inicio -->
 <table><tr>
-<td align="center" width="25%"><a href="https://instagram.com/afabricadecanais"><img src="assets/ultimos/1.jpg" width="140" alt="E se você pudesse desfazer o que a IA fez" /></a><br/><sub>E se você pudesse desfazer o que a IA fez</sub></td>
-<td align="center" width="25%"><a href="https://instagram.com/afabricadecanais"><img src="assets/ultimos/2.jpg" width="140" alt="Automatizar ou fazer na mão" /></a><br/><sub>Automatizar ou fazer na mão</sub></td>
-<td align="center" width="25%"><a href="https://instagram.com/afabricadecanais"><img src="assets/ultimos/3.jpg" width="140" alt="Um dia na vida de uma pasta Downloads bagunçada" /></a><br/><sub>Um dia na vida de uma pasta Downloads bagunçada</sub></td>
-<td align="center" width="25%"><a href="https://instagram.com/afabricadecanais"><img src="assets/ultimos/4.jpg" width="140" alt="5 pedidos que um professor pode fazer ao Claude Code" /></a><br/><sub>5 pedidos que um professor pode fazer ao Claude Code</sub></td>
+<td align="center" width="25%"><a href="https://instagram.com/afabricadecanais"><img src="assets/ultimos/1.jpg" width="140" alt="Mito ou verdade dá pra usar o Claude Code sem terminal" /></a><br/><sub>Mito ou verdade dá pra usar o Claude Code sem terminal</sub></td>
+<td align="center" width="25%"><a href="https://instagram.com/afabricadecanais"><img src="assets/ultimos/2.jpg" width="140" alt="E se você pudesse desfazer o que a IA fez" /></a><br/><sub>E se você pudesse desfazer o que a IA fez</sub></td>
+<td align="center" width="25%"><a href="https://instagram.com/afabricadecanais"><img src="assets/ultimos/3.jpg" width="140" alt="Automatizar ou fazer na mão" /></a><br/><sub>Automatizar ou fazer na mão</sub></td>
+<td align="center" width="25%"><a href="https://instagram.com/afabricadecanais"><img src="assets/ultimos/4.jpg" width="140" alt="Um dia na vida de uma pasta Downloads bagunçada" /></a><br/><sub>Um dia na vida de uma pasta Downloads bagunçada</sub></td>
 </tr></table>
 <!-- ultimos:fim -->
 
